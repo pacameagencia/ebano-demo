@@ -1,5 +1,5 @@
-:HL["/ebano-demo/_next/static/chunks/0rwtstdw4c8ur.css","style"]
+:HL["/ebano-demo/_next/static/chunks/04kl79qqdre6a.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
-1:[["children",{"s":"creditos","h":64,"c":"$Q2"}]]
-0:{"b":"84cz2Fbf4wT7F9D9o4GA8","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+1:[["children",{"s":"creditos","h":96,"c":"$Q2"}]]
+0:{"b":"To6hRVi-OlqrwDkEYgpbK","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
