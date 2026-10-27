@@ -1,0 +1,6 @@
+:HL["/ebano-demo/_next/static/chunks/3882tpjdb2odo.css","style"]
+:HC["/",""]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"ferrari-296-gtb","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"stock","h":131168,"c":"$Q2"}]]
+0:{"b":"hMI5-dtyow2TlcCUd6oO4","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
